@@ -1,5 +1,5 @@
 #How to run
-
+This backend was hosted on hostinger
 #Locally run
 
 1. Clone the project and open via VS Code
