@@ -6,6 +6,7 @@ use App\Http\Controllers\Api\v1\CustomerAuth\CustomerAuthController;
 use App\Http\Controllers\Api\v1\ToDOController;
 
 Route::prefix('v1')->group(function(){
+    
     Route::post('/register',[CustomerAuthController::class,'register']);
     Route::post('/login',[CustomerAuthController::class,'login']);
 
