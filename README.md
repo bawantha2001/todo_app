@@ -1,8 +1,5 @@
 #How to run
 
-#So currently this backen was hosted so you can run the app 
-
-
 #Locally run
 
 1. Clone the project and open via VS Code
